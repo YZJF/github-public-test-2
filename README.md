@@ -4,3 +4,6 @@
 
 - 创建时间：2026-08-26
 - 用途：验证 GitHub 公开仓库创建流程
+
+## Changelog
+- v0.1.0: Initial workflow test
