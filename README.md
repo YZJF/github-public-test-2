@@ -7,3 +7,6 @@
 
 ## Changelog
 - v0.1.0: Initial workflow test
+
+## PR → Merge 测试
+- 流程：创建分支 → Pull Request → Merge
